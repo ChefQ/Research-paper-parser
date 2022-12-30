@@ -1,0 +1,39 @@
+2022/12/29-21:01:59.797 4f03 Reusing MANIFEST /Users/profq/Desktop/Projects/PythonProjects/Research-paper-parser/user_data/Default/Session Storage/MANIFEST-000001
+2022/12/29-21:01:59.798 4f03 Recovering log #3
+2022/12/29-21:01:59.798 4f03 Reusing old log /Users/profq/Desktop/Projects/PythonProjects/Research-paper-parser/user_data/Default/Session Storage/000003.log 
+2022/12/29-21:25:01.837 402b Level-0 table #5: started
+2022/12/29-21:25:01.872 402b Level-0 table #5: 12326 bytes OK
+2022/12/29-21:25:01.917 402b Delete type=0 #3
+2022/12/29-21:33:01.823 4977 Level-0 table #7: started
+2022/12/29-21:33:01.843 4977 Level-0 table #7: 11270 bytes OK
+2022/12/29-21:33:01.887 4977 Delete type=0 #4
+2022/12/29-21:39:01.822 3c53 Level-0 table #9: started
+2022/12/29-21:39:01.843 3c53 Level-0 table #9: 10937 bytes OK
+2022/12/29-21:39:01.880 3c53 Delete type=0 #6
+2022/12/29-21:44:45.559 5513 Level-0 table #11: started
+2022/12/29-21:44:45.584 5513 Level-0 table #11: 10565 bytes OK
+2022/12/29-21:44:45.626 5513 Delete type=0 #8
+2022/12/29-22:00:21.885 392f Level-0 table #13: started
+2022/12/29-22:00:21.912 392f Level-0 table #13: 11034 bytes OK
+2022/12/29-22:00:21.963 392f Delete type=0 #10
+2022/12/29-22:03:01.891 50a3 Level-0 table #15: started
+2022/12/29-22:03:01.919 50a3 Level-0 table #15: 9901 bytes OK
+2022/12/29-22:03:01.974 50a3 Delete type=0 #12
+2022/12/29-22:03:02.001 50a3 Compacting 4@0 + 1@1 files
+2022/12/29-22:03:02.033 50a3 Generated table #16@0: 6 keys, 3911 bytes
+2022/12/29-22:03:02.033 50a3 Compacted 4@0 + 1@1 files => 3911 bytes
+2022/12/29-22:03:02.086 50a3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/29-22:03:02.087 50a3 Delete type=2 #15
+2022/12/29-22:03:02.088 50a3 Delete type=2 #7
+2022/12/29-22:03:02.088 50a3 Delete type=2 #13
+2022/12/29-22:03:02.088 50a3 Delete type=2 #11
+2022/12/29-22:03:02.088 50a3 Delete type=2 #9
+2022/12/29-22:07:01.897 50a3 Level-0 table #18: started
+2022/12/29-22:07:01.919 50a3 Level-0 table #18: 10317 bytes OK
+2022/12/29-22:07:01.959 50a3 Delete type=0 #14
+2022/12/29-22:12:05.751 3ba7 Level-0 table #20: started
+2022/12/29-22:12:05.785 3ba7 Level-0 table #20: 11251 bytes OK
+2022/12/29-22:12:05.852 3ba7 Delete type=0 #17
+2022/12/29-22:17:01.997 274f Level-0 table #22: started
+2022/12/29-22:17:02.065 274f Level-0 table #22: 11488 bytes OK
+2022/12/29-22:17:02.159 274f Delete type=0 #19
